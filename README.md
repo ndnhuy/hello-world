@@ -1,2 +1,2 @@
 # hello-world
-This is my first thing I upload to github.
+Hello. I want to become an android developer, I love Java and Android OS
